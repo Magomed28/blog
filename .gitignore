@@ -1,0 +1,6 @@
+/.idea/
+/.git/
+/vendor/
+/frontend/web/uploads/
+/node_modules/
+/nbproject/
